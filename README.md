@@ -1,3 +1,6 @@
+
+This is a react apppliction with typescript Implementaion of CRUD operation by using MUI-x-grid, snackbar, model dialog etc calling the dummy json api's uing redux tool kit
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
